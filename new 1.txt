@@ -1,0 +1,4 @@
+<div id="footer" style="position: absolute; width:1000px; height:100px; background-color:gray; z-index:-1;top:726px; left:175px;">
+		<h2 style="text-align:center;padding-top:30px;">&copy; 2016 Online shop</h2>
+		
+		</div>
